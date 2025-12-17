@@ -5,6 +5,8 @@
 # This .gitignore file should be placed at the root of your Unity project directory
 #
 # Get latest from https://github.com/github/gitignore/blob/main/Unity.gitignore
+.env
+
 /[Ll]ibrary/
 /[Tt]emp/
 /[Oo]bj/
@@ -76,4 +78,3 @@ crashlytics-build.properties
 
 # End of https://www.toptal.com/developers/gitignore/api/unity
 
-.env
